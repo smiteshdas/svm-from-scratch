@@ -1,3 +1,4 @@
 # SVM from scratch with Python
 Support Vector Machine (SVM) implemented from scratch in Python, built from first principles. (No scikit-learn). Just used NumPy, Pandas and Matplotlib
 
+![SVM Classification Line Screenshot](https://raw.githubusercontent.com/smiteshdas/svm-from-scratch/refs/heads/main/svm-classification-img.png)
